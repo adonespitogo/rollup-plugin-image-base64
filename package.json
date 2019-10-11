@@ -1,5 +1,5 @@
 {
-  "name": "@adonespitogo/rollup-plugin-image-base64",
+  "name": "@adonesp/rollup-plugin-image-base64",
   "version": "1.0.0",
   "description": "Import JPG, PNG and GIF images as base64 strings",
   "main": "dist/rollup-plugin-image-base64.cjs.js",
