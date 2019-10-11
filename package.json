@@ -1,6 +1,6 @@
 {
   "name": "@adonesp/rollup-plugin-image-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Import JPG, PNG and GIF images as base64 strings",
   "main": "dist/rollup-plugin-image-base64.cjs.js",
   "jsnext:main": "dist/rollup-plugin-image-base64.es.js",
